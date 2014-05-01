@@ -1,4 +1,4 @@
-pampercy
+Pampercy
 ========
 
-pampercy
+Application for tracking products
