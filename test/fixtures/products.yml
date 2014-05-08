@@ -6,21 +6,24 @@
 #
 shampoo:
   name: Head and Shoulders
-  description: Shampoo
+  description: This is a product that prevents dry scalp
+  category: Shampoo
   weight: 1
   sku: 123345
   price: 5
 
 conditioner:
   name: Aveda Conditioner
-  description: Conditioner
+  description: This is a product that helps keep your hair moist
+  category: Conditioner
   weight: 1
   sku: 54321
   price: 4
 
 hairspray:
   name: BB Hair Spray
-  description: Hair Spray
+  description: This is a produc that helps keep your hair in the same position throughout the day
+  category: Hair Spray
   weight: 1
   sku: 554433
   price: 3
