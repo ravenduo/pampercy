@@ -1,5 +1,4 @@
 class User < ActiveRecord::Base
-	belongs_to :company
 	has_many :order
 	has_many :billing_info
 
